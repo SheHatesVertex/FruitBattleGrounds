@@ -11,7 +11,7 @@ HomeSection:NewButton("AutoFarm", "Fruit found", function()
 
 while true do
 
-    wait(0.0001)
+    wait()
    
    
    local args = {
